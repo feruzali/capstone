@@ -1,0 +1,11 @@
+<launch>
+  <!-- Launch raspicam_node -->
+  <include file="$(find raspicam_node)/launch/camera_node.launch">
+    <arg name="enable_raw" value="true"/>
+  </include>
+
+  <!-- Launch webrtc_ros -->
+  <node pkg="webrtc_ros" type="webrtc_ros_node" name="webrtc_ros_node">
+    <param name="webrtc" value="webrtc.launch.xml"/>
+  </node>
+</launch>
