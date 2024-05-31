@@ -1,0 +1,3 @@
+[submodule "emo/raspicam_node"]
+	path = emo/raspicam_node
+	url = https://github.com/UbiquityRobotics/raspicam_node.git
