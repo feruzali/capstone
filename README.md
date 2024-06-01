@@ -1,4 +1,4 @@
-![main](./3d_model/TurtleBot3 Burger v45.png)
+![main](./3d_model/TurtleBot3%20Burger%20v45.png)
 
 # Overview
 
