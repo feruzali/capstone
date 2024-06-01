@@ -1,3 +1,5 @@
+![main](3d_model/TurtleBot3 Burger v45.png)
+
 # Overview
 
 **EMO** is a name of Alsafe's environment checking robot. 
